@@ -1,0 +1,7 @@
+variant,pair,chi2,p
+screenshot,claude35 vs gemini15,1.0,1.0
+screenshot,claude35 vs gpt4o,1.0,0.07
+screenshot,gemini15 vs gpt4o,2.0,0.18
+ocr,claude35 vs gemini15,2.0,1.0
+ocr,claude35 vs gpt4o,2.0,1.0
+ocr,gemini15 vs gpt4o,1.0,1.0
